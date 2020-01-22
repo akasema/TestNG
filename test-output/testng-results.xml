@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="87588" started-at="2020-01-16T12:48:37 EST" finished-at="2020-01-16T12:50:05 EST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="87588" started-at="2020-01-16T12:48:37 EST" finished-at="2020-01-16T12:50:05 EST">
+      <class name="com.RewiewHomework.HomeWork">
+        <test-method status="PASS" signature="openAndNavigate()[pri:0, instance:com.RewiewHomework.HomeWork@4b4523f8]" name="openAndNavigate" is-config="true" duration-ms="22330" started-at="2020-01-16T12:48:37 EST" finished-at="2020-01-16T12:49:00 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openAndNavigate -->
+        <test-method status="PASS" signature="enteringEmloyee(java.lang.String, java.lang.String)[pri:0, instance:com.RewiewHomework.HomeWork@4b4523f8]" name="enteringEmloyee" duration-ms="3037" started-at="2020-01-16T12:49:00 EST" data-provider="getData" finished-at="2020-01-16T12:49:03 EST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Aka]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[AKAlastNAME]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enteringEmloyee -->
+        <test-method status="PASS" signature="close()[pri:0, instance:com.RewiewHomework.HomeWork@4b4523f8]" name="close" is-config="true" duration-ms="3146" started-at="2020-01-16T12:49:03 EST" finished-at="2020-01-16T12:49:06 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method status="PASS" signature="openAndNavigate()[pri:0, instance:com.RewiewHomework.HomeWork@4b4523f8]" name="openAndNavigate" is-config="true" duration-ms="22338" started-at="2020-01-16T12:49:06 EST" finished-at="2020-01-16T12:49:28 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openAndNavigate -->
+        <test-method status="PASS" signature="enteringEmloyee(java.lang.String, java.lang.String)[pri:0, instance:com.RewiewHomework.HomeWork@4b4523f8]" name="enteringEmloyee" duration-ms="3128" started-at="2020-01-16T12:49:28 EST" data-provider="getData" finished-at="2020-01-16T12:49:31 EST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Aka1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[AKAlastNAME1!]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enteringEmloyee -->
+        <test-method status="PASS" signature="close()[pri:0, instance:com.RewiewHomework.HomeWork@4b4523f8]" name="close" is-config="true" duration-ms="3144" started-at="2020-01-16T12:49:31 EST" finished-at="2020-01-16T12:49:34 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method status="PASS" signature="openAndNavigate()[pri:0, instance:com.RewiewHomework.HomeWork@4b4523f8]" name="openAndNavigate" is-config="true" duration-ms="17815" started-at="2020-01-16T12:49:34 EST" finished-at="2020-01-16T12:49:52 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openAndNavigate -->
+        <test-method status="PASS" signature="enteringEmloyee(java.lang.String, java.lang.String)[pri:0, instance:com.RewiewHomework.HomeWork@4b4523f8]" name="enteringEmloyee" duration-ms="9452" started-at="2020-01-16T12:49:52 EST" data-provider="getData" finished-at="2020-01-16T12:50:02 EST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Aka2]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[AKAlastNAME2!]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enteringEmloyee -->
+        <test-method status="PASS" signature="close()[pri:0, instance:com.RewiewHomework.HomeWork@4b4523f8]" name="close" is-config="true" duration-ms="3122" started-at="2020-01-16T12:50:02 EST" finished-at="2020-01-16T12:50:05 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- com.RewiewHomework.HomeWork -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
